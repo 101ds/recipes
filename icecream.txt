@@ -1,0 +1,6 @@
+Ingredients:
+ - icecream
+ - strawberry jam
+
+Directions:
+  Add some strawberry jam to icecream, eat
